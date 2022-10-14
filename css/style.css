@@ -38,6 +38,7 @@ h1 {
 main{
     width: 90%;
     margin: 40px auto;
+    min-height: 400px;
 }
 
 section {
